@@ -14,5 +14,7 @@ Style GAN uses the baseline progressive GAN architecture and proposed some chang
 
 <br/><br/>
  >Result after apply styleGan-
-
-<a href="url"><img src="https://github.com/Vimal9900/Style-Transfer-tensorflow/blob/main/Results/golden_gate_starry.jpg" align="left" height="300" width="400" ></a>
+ 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Vimal9900/Style-Transfer-tensorflow/blob/main/Results/golden_gate_starry.jpg">
+</p>
