@@ -2,4 +2,6 @@
 Style GAN proposes a lot of changes in the generator part which allows it to generate the photo-realistic high-quality images as well as modify some part of the generator part.
 Style GAN uses the baseline progressive GAN architecture and proposed some changes in the generator part of it. However, the discriminator architecture is quite similar to baseline progressive GAN
 
-<img src="/Vimal9900/Style-Transfer-tensorflow/blob/main/Images/GoldenGate.jpg" >
+
+
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/Vimal9900/Style-Transfer-tensorflow/blob/main/Images/GoldenGate.jpg)
